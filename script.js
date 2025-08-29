@@ -133,7 +133,7 @@ const pets = [
         status: "available"
     },
     {
-        id: 11,
+        id: 12,
         name: "Snowy",
         breed: "Pomeranian",
         type: "dog",
@@ -145,7 +145,7 @@ const pets = [
         status: "available"
     },
      {
-        id: 12,
+        id: 13,
         name: "Mimi",
         breed: "Scottish Fold",
         type: "cat",
@@ -157,7 +157,7 @@ const pets = [
         status: "available"
     },
     {
-        id: 13,
+        id: 14,
         name: "Sky",
         breed: "Siberian Husky",
         type: "dog",
@@ -611,3 +611,4 @@ window.onload = function() {
     // Show home section by default
     document.querySelector('#home').style.display = 'block';
 };
+
